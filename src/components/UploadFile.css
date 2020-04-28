@@ -1,0 +1,12 @@
+.uploadImageContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.imagePreview {
+    width: 450px;
+    min-height:200px;
+    border: solid 2px #dddddd;
+}
